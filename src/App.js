@@ -4,7 +4,7 @@ import './App.css';
 import {Cart} from "./components/cart/cart";
 
 /**
- * This is a simple React + Javascript app to demonstrate some problems (potentially bugs) or things that slows down the develop velocity.
+ * This is a simple React + Javascript app to demonstrate some problems (potentially bugs) or things that slows down the development velocity.
  *
  * Some problems:
  * ❌ properties with different name
